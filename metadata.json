@@ -1,0 +1,5 @@
+{
+  "name": "Smart Contract Vulnerability Lab",
+  "description": "An interactive workshop tool to demonstrate common smart contract vulnerabilities like Reentrancy, Overflow, and Access Control issues.",
+  "requestFramePermissions": []
+}
